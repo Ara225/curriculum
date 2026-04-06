@@ -33,7 +33,7 @@ name="Optional structured activity: Live Code Review"
 src="blocks/mentored-code-review"
 [[blocks.nested.blocks]]
 name="Optional structured activity for consolidating Git"
-src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/git-day-1"
+src="workshops/git-day-1"
 time=0
 [[blocks.nested.blocks]]
 name="Optional structured activity for consolidating HTML forms"
