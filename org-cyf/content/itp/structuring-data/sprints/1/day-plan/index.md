@@ -40,7 +40,7 @@ name="Optional structured activity: Code Review"
 src="blocks/mentored-code-review"
 [[blocks.nested.blocks]]
 name="Optional structured activity: Know Your Computer"
-src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/know-your-computer"
+src="workshops/know-your-computer"
 [[blocks]]
 name="Retro"
 src="blocks/retro"
