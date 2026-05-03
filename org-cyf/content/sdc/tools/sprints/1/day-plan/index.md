@@ -21,7 +21,7 @@ name = "Morning break"
 src = "blocks/morning-break"
 [[blocks]]
 name = "Terminal skills workshop"
-src = "https://github.com/CodeYourFuture/CYF-Workshops/readme/terminal-skills"
+src = "workshops/terminal-skills"
 time = "60"
 [[blocks]]
 name = "Lunch"
