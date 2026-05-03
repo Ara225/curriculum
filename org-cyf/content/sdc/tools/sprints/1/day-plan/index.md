@@ -14,7 +14,7 @@ name = "Goals"
 src = "module/sdc-induction/goals"
 [[blocks]]
 name = "Using a project board workshop"
-src = "https://github.com/CodeYourFuture/CYF-Workshops/readme/projectboard"
+src = "workshops/projectboard"
 time = "45"
 [[blocks]]
 name = "Morning break"
