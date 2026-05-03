@@ -8,7 +8,7 @@ name = "Morning orientation"
 src = "blocks/morning-orientation"
 [[blocks]]
 name = "User Needs and Acceptance Criteria Workshop"
-src = "https://github.com/CodeYourFuture/CYF-Workshops/readme/user-needs-and-acceptance-criteria"
+src = "workshops/user-needs-and-acceptance-criteria"
 time = "60"
 [[blocks]]
 name = "Morning break"
